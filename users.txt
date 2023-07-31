@@ -1,0 +1,27 @@
+
+
+customer:
+	username: customer
+	password: afghanistan1234
+	token: 	ff294774b27858abd0f279d233342c2cac2adc85
+
+
+
+admin:
+	username: ali
+	password: 1234
+	token: af613685ff77c4c3bb6a3ac43ca568390a97af24
+
+
+
+manager:
+	username: sharif
+	password: afghanistan1234
+	token: 3b491d80575c7f735ad364cbc9de88c5abbf7d7d
+
+
+
+delivery_crew:
+	username: ahmad_delivery
+	password: afghanistan1234
+	token: 00b438c6ee85e26e7256245d533ca12759805509
